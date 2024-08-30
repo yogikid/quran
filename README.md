@@ -4,7 +4,7 @@ Al-Qur'an online berbasis web yang dilengkapi dengan terjemahan, tafsir, dan aud
 
 ## Live Website
 
-[https://maos-quran.vercel.app/](https://maos-quran-peach.vercel.app/)
+[https://maos-quran-peach.vercel.app/](https://maos-quran-peach.vercel.app/)
 
 ## Screenshoot
 
